@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I’m James
 
-<!--
-**JamesBarrettDev/JamesBarrettDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build software for freelancers, indie hackers, and small teams.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+- I care about clean code, clear design, and long-term thinking.  
+- I share what I learn from freelancing, coding, and building in public.  
+- Always learning, always improving.
+
+**Stack:** Laravel, React, Next.js, TypeScript, Node
+
+---
+
+### Find Me
+
+- [Twitter](https://x.com/JamesBarrettDev) – daily updates and thoughts  
+- [Blog](https://jamesbarrett.io) – deeper dives into freelancing and indie dev
